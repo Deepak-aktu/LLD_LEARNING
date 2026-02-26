@@ -13,6 +13,7 @@ private:
     int currentGear;
 
     // new variable to explain setters
+    
     string tyreCompany;
  
 public:
